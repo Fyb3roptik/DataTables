@@ -4,3 +4,7 @@ cdn
 media/js/jquery.dataTables.min.js
 .DS_Store
 Plugins
+
+media/js/jquery.dataTables.js
+
+scripts/make.sh
